@@ -1,3 +1,4 @@
+
 function ObtenerLetra(palabra, posicion) {
   let i = 0;
   let letra = "";
